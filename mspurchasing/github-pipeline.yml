@@ -1,0 +1,17 @@
+# github-pipeline.yml
+
+pipelines:
+  default:
+    - step:
+        name: MSPurchasing
+        image: python:3.8
+        script:
+          - apt-get update && apt-get install -y unzip
+          - wget https://dl.google.com/dl/cloudsdk/release/google-cloud-sdk.zip
+          - unzip google-cloud-sdk.zip && rm google-cloud-sdk.zip
+          - ./google-cloud-sdk/install.sh --quiet
+          - source ./google-cloud-sdk/path.bash.inc
+          - gcloud auth activate-service-account --key-file=service-account-key.json
+          - gcloud app deploy --version <YOUR_TARGET_VERSION> --project <YOUR_PROJECT_ID>
+        artifacts:
+          - service-account-key.json

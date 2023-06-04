@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ipam-digital-hub",
+  "private_key_id": "4e303036ef2315ae9da3ab8aed33595c9566b698",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCdbW/IQqPDf4LV\nxU+9sR68F3+pdYA5u20nqxzpuHuE6rG7pG2GGG6HERj3e54M41S28wmb6CQa9n9J\nKUG1ISRicg+YLp/bjD+1KZjb6LqJNjaGx5V4klpLBuPV0IobdOTXxwuKzUGGM0PJ\n6eQync7+f440BrJowjUk5VJwaCl1ogIbiJjM/CLGvsffLw7jmNfyPt4UahuLQIQa\nRrM418iTa/Fy1j+Mxg8Vtq3buSnYvATk3pL+2VyokcYtCY2+n77SmULWFdzvu0vg\nir4UF+jbxqU7dQvbmLeFBvp1wn3dg5oUwQuOjucJHvFcZ9AA8/0MhZk5lW9wKIby\naIZzLKdjAgMBAAECggEAAaVzksnelErH8fwX0qnrT337Mf5OXv328bkf6O2TDYzX\nbfoyIQQ3nQQEvQ/iwFUMV5RUqZkKAm9u/qBn/Zh+x3LsUTusCEExyZVEr65qPWpR\n0FwpB/pxdddJjI1KuOMd463txPP0Sjk5zE+NbVAUwgTVNS6hQ9nk0EUqebP5TYnE\nzxF/gCVZz4CKhgXPM4eI/9wRyIz9hp2Smf337DLO2rchA8gZfr2h2d0siN+d2qjD\nRxGoELSAikCQXfQgVQYGP4qbwIlMHISWaLqYEw6JprS9KzISgcp+hHfph3WWnTd6\n+KtVozDU185/aE36yhs5PwIAk1YshU4iA6/WXrAdVQKBgQDWKiseslFhetHc4h6L\nCHnMDtsr44PE9cM7+zrug7qq9rog3DBE7prES8D6ChSwVRhsgbpKT4UBmwjPcUyM\ntkj3Kf+ZzZNSokixjch8rRA8auR1bL92bQa9HeTdRtI4M8mNp0sBaNTvtMpFaYbi\nHVYk9UE9fnsifuPnzhiTEw9JVQKBgQC8Lfvc5AqxUT6w2l4pDumH5C4PzG9xnlPQ\nmEy7etNw8vrBDRkPugTOEM2+rNIj5notfSeGwatr2YpyrwUewyFaeuHnqcYUjqMy\nLUCcKZrClr25b74SU0R3SWpYPgXOQuT4CrwWKsDH5RBzNFSHkJ5iJ82kKMBjZY06\n5v95oSnN1wKBgQCZbOAzP3/5m6lY2k0TQWEwBLyS9ozhv0a8Y8DWOlyyOcsh21xh\nJaaOVc7L0gj8QhobMdype8pHWi+3nO1AKR6got/P6WxPWJ9HQ9GLL9hf0BwW229W\ngcjAFvhsZV4YkVElP+IGAnn5t8TocS8GMgoSs/im+0NvdQQEfqswQglDeQKBgBBX\nQebFmrQZJQOAguq308msI9/VVdwc7pRPlWI2YUQOpX28IHAALEikpukm4ryhV/y5\nQIRwLu2Xn3EkB6LLOQs9Xn6afIvucvd5fIHTDxBUvLbsoCnBN1HQez6cbC6kGnP7\noqeeIM1687m9UpXPFiHZ6P6XV1WKTQBPbOHn/9RTAoGAZK1H3DfDQekIhNNhs96e\n4ZOztsnN9HyE/0VYn1q+P0rIYzD4Xehs95kEeXNUKV6qLFmE2w+5r8hPRC1TwVAB\nF5/CsieydbHZwD91jOt1UYbAZywHpTJL0BbMTwsAd78/yo4mxT1Ozqe8VI9ujx7Y\nHsdyBhGYOIyVDau0DXXhXUU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mspurchasing@ipam-digital-hub.iam.gserviceaccount.com",
+  "client_id": "111649344451171636396",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mspurchasing%40ipam-digital-hub.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
