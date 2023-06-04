@@ -11,7 +11,7 @@ router.register(r'vendors', VendorViewSet)
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('api/', include(router.urls)),
+    path('api/', include(router.urls), name='home'),
     path('products/<int:pk>/', ProductViewSet.as_view(
         {'get': 'retrieve', 'post': 'create', 'put': 'update', 'delete': 'destroy'}), name='product-detail'),
     path('api/search-by-product-name/', search_by_product_name,
